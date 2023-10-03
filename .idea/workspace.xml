@@ -4,55 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6f8e6d9d-926c-4299-bec2-f89c2182ae71" name="更改" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/mybatisx/templates.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springboot-base-application-02/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springboot-base-application-02/src/main/java/org/example/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springboot-base-application-02/src/main/java/org/example/controller/UserController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springboot-base-application-02/src/main/java/org/example/pojo/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springboot-base-application-02/src/main/resources/application-dev.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springboot-base-application-02/src/main/resources/application-test.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springboot-base-application-02/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springboot-base-druid-04/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springboot-base-druid-04/src/main/java/org/example/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springboot-base-druid-04/src/main/java/org/example/controller/UserController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springboot-base-druid-04/src/main/java/org/example/pojo/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springboot-base-druid-04/src/main/resources/META-INF/spring/org.springframework.boot.autoconfigure.AutoConfiguration.imports" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springboot-base-druid-04/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springboot-base-mybatis-05/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springboot-base-mybatis-05/src/main/java/org/example/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springboot-base-mybatis-05/src/main/java/org/example/advice/LogAdvice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springboot-base-mybatis-05/src/main/java/org/example/controller/UserController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springboot-base-mybatis-05/src/main/java/org/example/mapper/UserMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springboot-base-mybatis-05/src/main/java/org/example/pojo/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springboot-base-mybatis-05/src/main/java/org/example/service/UserService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springboot-base-mybatis-05/src/main/resources/META-INF/spring/org.springframework.boot.autoconfigure.AutoConfiguration.imports" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springboot-base-mybatis-05/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springboot-base-mybatis-05/src/main/resources/mapper/UserMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springboot-base-quick-01/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springboot-base-quick-01/src/main/java/org/example/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springboot-base-quick-01/src/main/java/org/example/controller/HelloController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springboot-base-quick-01/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springboot-base-springmvc-03/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springboot-base-springmvc-03/src/main/java/org/example/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springboot-base-springmvc-03/src/main/java/org/example/config/WebMvcConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springboot-base-springmvc-03/src/main/java/org/example/controller/HelloController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springboot-base-springmvc-03/src/main/java/org/example/interceptor/MyInterceptor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springboot-base-springmvc-03/src/main/resources/application-dev.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springboot-base-springmvc-03/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springboot-base-springmvc-03/src/main/resources/static/login.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springboot-base-springmvc-03/src/main/resources/webapp/register.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springboot-part.iml" afterDir="false" />
-    </list>
+    <list default="true" id="6f8e6d9d-926c-4299-bec2-f89c2182ae71" name="更改" comment="SpringBoot3的基本使用" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -101,7 +53,7 @@
     &quot;git-widget-placeholder&quot;: &quot;master&quot;,
     &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
     &quot;jdk.selected.JAVA_MODULE&quot;: &quot;17&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/Code/studentCode/springboot-part/springboot-base-mybatis-05/src/main/resources/META-INF/spring&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/Code/studentCode/springboot-part&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -117,6 +69,7 @@
 }</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Code\studentCode\springboot-part" />
       <recent name="D:\Code\studentCode\springboot-part\springboot-base-mybatis-05\src\main\resources\META-INF\spring" />
       <recent name="D:\Code\studentCode\springboot-part\springboot-base-mybatis-05\src\main\resources" />
       <recent name="D:\Code\studentCode\springboot-part\springboot-base-springmvc-03\src\main\resources\wabapp" />
@@ -205,8 +158,17 @@
       <workItem from="1696236539184" duration="1065000" />
       <workItem from="1696247550536" duration="4784000" />
       <workItem from="1696252370844" duration="1487000" />
-      <workItem from="1696296548272" duration="1340000" />
+      <workItem from="1696296548272" duration="1470000" />
     </task>
+    <task id="LOCAL-00001" summary="SpringBoot3的基本使用">
+      <option name="closed" value="true" />
+      <created>1696298325184</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1696298325185</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -214,5 +176,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="SpringBoot3的基本使用" />
+    <option name="LAST_COMMIT_MESSAGE" value="SpringBoot3的基本使用" />
   </component>
 </project>
