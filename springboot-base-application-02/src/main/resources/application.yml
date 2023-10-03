@@ -1,0 +1,19 @@
+server:
+  port: 80
+  servlet:
+    context-path: /boot
+
+qlh:
+  user:
+    username: admin
+    gfs:
+      - a
+      - b
+      - c
+
+spring:
+  profiles:
+    active: dev
+    # 激活外部的配置  application-test | application-dev
+    # 外部配置的key和application key重复  外部的覆盖内部!!
+    # jar  --active=test
