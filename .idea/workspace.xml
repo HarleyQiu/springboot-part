@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6f8e6d9d-926c-4299-bec2-f89c2182ae71" name="更改" comment="SpringBoot3的基本使用">
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/ea84c588-c666-4cf2-978c-36bff255fbad.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/ea84c588-c666-4cf2-978c-36bff255fbad.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="6f8e6d9d-926c-4299-bec2-f89c2182ae71" name="更改" comment="SpringBoot3的基本使用" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -166,6 +162,7 @@
       <workItem from="1696298382405" duration="164000" />
       <workItem from="1696682420513" duration="20000" />
       <workItem from="1696769730528" duration="47000" />
+      <workItem from="1696773837328" duration="17000" />
     </task>
     <task id="LOCAL-00001" summary="SpringBoot3的基本使用">
       <option name="closed" value="true" />
@@ -183,7 +180,15 @@
       <option name="project" value="LOCAL" />
       <updated>1696298519874</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="SpringBoot3的基本使用">
+      <option name="closed" value="true" />
+      <created>1696773847978</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1696773847978</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
